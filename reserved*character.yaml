@@ -1,0 +1,4 @@
+apiVersion: testing
+kind: Test
+metadata:
+  name: my-test
